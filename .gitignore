@@ -1,0 +1,15 @@
+node_modules
+.env
+dist
+build
+coverage
+logs
+uploads
+.vscode
+.idea
+.DS_Store
+*.log
+client/node_modules
+server/node_modules
+client/dist
+server/dist
